@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm passionate about creating and sharing high-qua
 ## 👀 What I'm Up To
 
 - **Interest**: Themes and templates for websites and applications.
-- **Current Focus**: Uploading and managing themes and templates on [www.themezoz.com](http://www.themezoz.com).
-- **Collaboration**: I'm always open to working with others on projects related to themes and templates. If you're interested, let's connect through [www.themezoz.com](http://www.themezoz.com).
+- **Current Focus**: Uploading and managing themes and templates on [www.themezoz.com](https://www.themezoz.com).
+- **Collaboration**: I'm always open to working with others on projects related to themes and templates. If you're interested, let’s connect through [www.themezoz.com](https://www.themezoz.com).
 
 ## 📫 How to Reach Me
 
-- **Website**: [www.themezoz.com]([http://www.themezoz.com/](https://www.themezoz.com/contact_us))
+- **Website**: [www.themezoz.com](https://www.themezoz.com/contact_us)
 - **Email**: [info@themezoz.com](mailto:info@themezoz.com)
 
 ## 😄 Pronouns
@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm passionate about creating and sharing high-qua
 - I once spent an entire weekend coding a theme from scratch just for fun, and it ended up being one of my most popular designs!
 
 Feel free to explore my repositories, check out my themes and templates, and reach out if you’d like to collaborate or just say hi. Thanks for stopping by!
-
 
 <!---
 themezoz/themezoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
